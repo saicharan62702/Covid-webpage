@@ -1,14 +1,14 @@
 # Covid-webpage
 
-This is a Covid informativ STATIC WEBPAGE .
+This is a Covid informative STATIC WEBPAGE .
 This project is built using HTML, CSS, JavaScript and  AZURE STATIC WEBAPP SERVICE.
-In this webpage you can get to know about what is the cause for coivd and what ara the symptoms .
+In this webpage you can get to know about what is the cause for covid and what are the symptoms.
 Also you can see the details about how to prevent and what things you should follow while having covid.
 
 
 Project link(demo link): https://orange-ground-0f2b25110.2.azurestaticapps.net
 
-Some of the image taken while deploying(step followed ):
+Some of the images taken while deploying(steps followed ):
 1. Creating a Resource group:
 ![image](https://user-images.githubusercontent.com/107922412/195995866-a16fe7fc-3f75-4322-bad2-68612fa1f453.png)
 
